@@ -127,7 +127,7 @@ est_global_3 = np.array([0.000289,0.000089,0.000046,0.000021,0.000013,0.000007,0
 #Pour J_1
 plt.figure(1)
 plt.plot(nb_cells_1,erreur_1,'+',linestyle='-')
-plt.plot(nb_cells_1,est_global_1,'+',linestyle='-') ### dans le summary de AdaptiveLinearVariationalSolver, error_estimate est bien l'estim global ? ###
+plt.plot(nb_cells_1,est_global_1,'+',linestyle='-')
 plt.legend(['|J_1(u) - J_1(u_h)|','Estimateur global'])
 
 plt.xscale('log')
