@@ -16,8 +16,11 @@ Le fichier du programme est : dwr_elasticite_lineaire.py
 Les fichiers associés nécessaires pour l'exécution du code sont :
 
 mesh_keloid_skin_pads_fixed.xml  (maillage initial)
+
 mesh_keloid_skin_pads_fixed_facet_region.xml  (marqueurs zones chéloïde/peau saine pour les arêtes)
+
 mesh_keloid_skin_pads_fixed_physical_region.xml  (marqueurs zones cheloide/peau saine pour les mailles)
+
 
 Les résultats numériques en sortie sont enregistrés dans un fichier généré à l'exécution :
 output_keloid_adapt_DWR.txt
