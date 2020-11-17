@@ -18,7 +18,7 @@ Différentes quantités d'intérêt sont utilisées.
 Le fichier dwr_poisson_primal.py résout le problème primal, dwr_poisson_dual.py résout le problème dual et dwr_poisson_sol_exacte.py
 calcule une solution approchée sur un maillage uniforme très fin pour tendre vers la solution exacte du problème primal.
 
-Ce dernier permet d'étudier l'erreur commise dans l'approximation de la quantité d'intérêt ainsi que l'efficacité de l'estimateur d'erreur DWR,
+Ce dernier permet d'étudier l'erreur commise dans l'approximation de la quantité d'intérêt ainsi que l'efficacité de l'estimateur d'erreur DWR global,
 sous forme de courbes d'erreur.
 
 Les valeurs numériques sont obtenues en exécutant dwr_poisson_primal.py
