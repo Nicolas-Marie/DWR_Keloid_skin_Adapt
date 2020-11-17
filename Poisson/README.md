@@ -1,6 +1,7 @@
 # DWR_Keloid_skin_Adapt/Poisson
 
-Résolution du problème de Poisson par la méthode Dual-Weighted Residual (raffinement adaptatif) :
+Résolution du problème de Poisson par la méthode Dual-Weighted Residual (raffinement adaptatif), effectué avec FEniCS.
+Problème :
 
 -Laplacien(u) = f
 
