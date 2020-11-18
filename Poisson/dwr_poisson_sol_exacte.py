@@ -92,7 +92,7 @@ print("J_3(u) = ",J_3)
 
 
 #valeur de J_1(u_h) à chaque itération
-J_1_uh = np.array([0.21066,0.220805,0.223738,0.225789,0.226681,0.227241,0.22748,0.227626,0.227694,0.227724,0.227751]) ### dans le summary de AdaptiveLinearVariationalSolver, functional value est bien J(u_h) ? ###
+J_1_uh = np.array([0.21066,0.220805,0.223738,0.225789,0.226681,0.227241,0.22748,0.227626,0.227694,0.227724,0.227751])
 #nombre de cellules du maillage
 nb_cells_1 = np.array([32,97,157,353,610,1361,2291,4762,8652,12133,26927])
 #erreur relative
