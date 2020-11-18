@@ -1,3 +1,5 @@
+# DWR_Keloid_skin_Adapt/Elasticite_Lineaire
+
 Optimisation du maillage du modèle de la cicatrice chéloïdienne suivant une loi d'élasticité linéaire par la méthode Dual-Weighted Residual (raffinement adaptatif)
 
 Effectué avec FEniCS
